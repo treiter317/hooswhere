@@ -1,0 +1,13 @@
+The following project was a 12 week project completed in a group of 5 during a UVA computer science course.
+
+The project utilized the Django framework which was new to me and learned throughout the process. The project was formerly hosted on Heroku and implemented
+the google maps API; however both of these dependencies have been discontinued after the completion of the course. The application worked as a form of game, 
+where users could play a daily challenge of guessing a location of an image somewhere on UVA campus. Points wer then awarded for the proximity to the answer. 
+There was also the opportunity to submit challenges that other players would see in the future. Additionally, there was a seperate interface for Admin users 
+which involved approving submissions, monitoring existing users, and seeing upcoming challenges.
+
+My primary contributions to this project were:
+  - front end development of the entire admin interface
+  - process of admin approval and feedback being receieved by user on their end (full-stack)
+  - implementation of AWS S3 buckets for cloud image storage
+  - lots of general front-end tune ups via Bootstrap
